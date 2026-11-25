@@ -2,7 +2,6 @@
 # Replace _data/cv.yml in your website repository with this file.
 cv:
   name: Klara Gawor
-  label: Postdoctoral Researcher
   headline: Postdoctoral Researcher
   location: Philadelphia, PA, USA
   email: klara.gawor@pennmedicine.upenn.edu
