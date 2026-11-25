@@ -42,8 +42,14 @@ jobs:
             echo "Missing RenderCV config file!"
             exit 1
           fi
-          rendercv render $cv_file --settings $settings
-          rm assets/rendercv/rendercv_output/*.typ
+          # Remove previously generated PDFs.
+          rm -f assets/rendercv/rendercv_output/*.pdf
+
+          # Generate the current CV.
+          rendercv render "$cv_file" --settings "$settings"
+
+          # Remove intermediate Typst files.
+          rm -f assets/rendercv/rendercv_output/*.typ
       - name: Upload rendercv_output as an artifact
         uses: actions/upload-artifact@v7
         with:
