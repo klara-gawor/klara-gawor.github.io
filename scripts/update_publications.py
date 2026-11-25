@@ -60,6 +60,9 @@ def parse_bibtex(text):
     """Parse bibliography entries without changing the original file."""
     text = re.sub(r"\A---\s*\n---\s*\n?", "", text, count=1)
     parser = BibTexParser(ignore_nonstandard_types=False, common_strings=True)
+    # DOI providers may use full month names as unquoted BibTeX macros.
+    months = {month.lower(): month for month in parser.bib_database.strings.values()}
+    parser.bib_database.strings.update(months)
     return bibtexparser.loads(text, parser=parser).entries
 
 
