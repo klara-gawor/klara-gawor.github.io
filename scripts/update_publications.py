@@ -13,10 +13,11 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 
 import bibtexparser
-from bibtexparser.bibdatabase import BibDatabase
+from bibtexparser.bibdatabase import BibDatabase, UndefinedString
 from bibtexparser.bparser import BibTexParser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.customization import convert_to_unicode
+from pyparsing import ParseBaseException
 
 ORCID = "0000-0001-7571-5420"
 BIB_PATH = Path(__file__).resolve().parents[1] / "_bibliography" / "papers.bib"
@@ -60,9 +61,13 @@ def parse_bibtex(text):
     """Parse bibliography entries without changing the original file."""
     text = re.sub(r"\A---\s*\n---\s*\n?", "", text, count=1)
     parser = BibTexParser(ignore_nonstandard_types=False, common_strings=True)
-    # DOI providers may use full month names as unquoted BibTeX macros.
-    months = {month.lower(): month for month in parser.bib_database.strings.values()}
-    parser.bib_database.strings.update(months)
+    # Some DOI providers use full, unquoted month names instead of BibTeX abbreviations.
+    months = (
+        "January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December",
+    )
+    parser.bib_database.strings.update({month.lower(): month for month in months})
+    parser.bib_database.strings["sept"] = "September"
     return bibtexparser.loads(text, parser=parser).entries
 
 
@@ -103,7 +108,13 @@ def get_bibtex(doi):
             return None
         raise
 
-    entries = parse_bibtex(text)
+    print(f"Reading DOI: {doi}", flush=True)
+    try:
+        entries = parse_bibtex(text)
+    except (UndefinedString, ParseBaseException) as error:
+        print(f"::warning::Could not parse DOI {doi}: {error}. Skipped; retry on next run.")
+        return None
+
     if len(entries) != 1:
         print(f"WARNING: Unexpected BibTeX response for {doi}; skipped.")
         return None
@@ -157,11 +168,13 @@ def sync(path, dry_run=False):
         print("WARNING: No public journal articles with DOIs found in ORCID.")
 
     additions = []
+    skipped = []
     for doi, orcid_title in sorted(works.items()):
         if doi in seen_dois or normalize_title(orcid_title) in seen_titles:
             continue
         entry = get_bibtex(doi)
         if entry is None:
+            skipped.append(doi)
             continue
         title = normalize_title(entry["title"])
         if title in seen_titles:
@@ -184,6 +197,8 @@ def sync(path, dry_run=False):
         with path.open("a", encoding="utf-8", newline="\n") as handle:
             handle.write("\n\n" + appended)
     print(f"{'Would add' if dry_run else 'Added'} {len(additions)} publication(s).")
+    if skipped:
+        print(f"Skipped {len(skipped)} DOI(s): {', '.join(skipped)}")
 
 
 def main():
@@ -191,6 +206,19 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dry-run", action="store_true", help="Preview without writing.")
     args = parser.parse_args()
+    # Check all supported month spellings before contacting external services.
+    months = (
+        "January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December",
+    )
+    aliases = {month.lower(): month for month in months}
+    aliases.update({month[:3].lower(): month for month in months})
+    aliases["sept"] = "September"
+    for alias, expected in aliases.items():
+        sample = parse_bibtex(f"@article{{month_test, title={{Test}}, month={alias}}}")
+        if len(sample) != 1 or sample[0].get("month") != expected:
+            raise RuntimeError(f"BibTeX month parsing self-test failed for {alias}.")
+    print("BibTeX month parsing self-test passed (including july and sept).", flush=True)
     sync(BIB_PATH, dry_run=args.dry_run)
 
 
