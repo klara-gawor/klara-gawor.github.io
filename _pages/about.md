@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher | <a href="https://www.upenn.edu/">University of Pennsylvania</a>
 
 profile:
   align: right
