@@ -2,13 +2,11 @@
 # Replace _data/cv.yml in your website repository with this file.
 cv:
   name: Klara Gawor
-  headline: Postdoctoral Researcher
+  headline: Postdoctoral Researcher | Computational Neuropathology
   location: Philadelphia, PA, USA
   email: klara.gawor@pennmedicine.upenn.edu
   website: https://klara-gawor.github.io/
   social_networks:
-    - network: GitHub
-      username: klara-gawor
     - network: ORCID
       username: 0000-0001-7571-5420
 
@@ -48,12 +46,30 @@ cv:
         end_date: '2024-02'
         highlights:
           - 'Host: Kristel Sleegers.'
-      - company: Gyfted
-        position: Research Consultant
-        start_date: '2020'
-        end_date: '2021'
+
+      - company: UMC Utrecht — Brain Center Rudolf Magnus
+        position: Research Intern
+        location: Utrecht, the Netherlands
+        start_date: '2020-02'
+        end_date: '2020-10'
         highlights:
-          - Psychometric testing.
+          - 'Supervisor: Wouter van Rheenen.'
+          - Investigated the relationship between genetically estimated subcortical reserve and cognitive impairment in amyotrophic lateral sclerosis.
+          - Developed scripts for GWAS data preprocessing and performed polygenic risk score, heritability, and genetic correlation analyses.
+      - company: University of Amsterdam — Cognitive and Systems Neuroscience
+        position: Research Intern
+        location: Amsterdam, the Netherlands
+        start_date: '2019-01'
+        end_date: '2019-07'
+        highlights:
+          - 'Supervisor: Matthijs oude Lohuis.'
+          - Investigated oscillatory activity across cortical regions as a marker of arousal.
+          - Developed scripts for pupillometry and analyzed electrophysiological and behavioral data.
+
+    Other Professional Experience:
+      - bullet: >-
+          **Jul 2020–2021** — Gyfted, Research Consultant. Development and psychometric
+          evaluation of cognitive and personality assessments.
 
     Education:
       - institution: KU Leuven
@@ -62,14 +78,11 @@ cv:
         location: Leuven, Belgium
         date: '2025'
       - institution: University of Amsterdam
-        area: Brain and Cognitive Science
+        area: Brain and Cognitive Science (Cognitive Neuroscience track)
         degree: MRes
         location: Amsterdam, the Netherlands
+        # Study period: Sep 2018–Dec 2020; confirm the formal degree award date.
         date: '2021'
-      - institution: University of Vienna
-        area: Erasmus+ exchange
-        location: Vienna, Austria
-        date: '2020'
       - institution: Jagiellonian University
         area: Cognitive Science
         degree: BSc
@@ -81,61 +94,76 @@ cv:
       - bullet: '**2025** — Second Best Poster in the Neurodegeneration Category, ECNP 2025.'
       - bullet: '**2024** — AAIC Conference Fellowship.'
       - bullet: '**2022** — FWO travel grant (K223522N), Summer School Biomedical Imaging, EXCITE Zurich.'
+      - bullet: '**2019–2020** — Erasmus+ Grant, University of Vienna, Vienna, Austria.'
+      # Confirm the official award name against the original certificate.
+      - bullet: '**2019** — Student Achievement Award, Fiat Chrysler Automobiles & CNH Industrial.'
       - bullet: '**2016–2018** — Merit-based Jagiellonian University Rector’s Scholarship (2016/2017 and 2017/2018).'
 
     First-Author Publications:
       - bullet: >-
-          **Gawor, K.**, Statz, K., Schaeverbeke, J., & Thal, D. R.
+          **Gawor, K.**, Statz, K., Schaeverbeke, J., & Thal, D. R. (2026).
           Alzheimer’s disease subtyping approaches and the role of co-pathologies.
-          *Brain* (accepted).
+          *Brain*.
+          DOI: [10.1093/brain/awag157](https://doi.org/10.1093/brain/awag157).
       - bullet: >-
           **Gawor, K.**, …, Tomé, S. O. (2025).
-          Spectrum of Alzheimer’s-related neuropathological lesions: their role in hippocampal
-          and global brain degeneration and association with the APOE ε4 allele.
+          Alzheimer's disease and its co-pathologies: Implications for hippocampal degeneration,
+          cognitive decline, and the role of APOE ε4.
           *Alzheimer’s & Dementia*.
+          DOI: [10.1002/alz.70483](https://doi.org/10.1002/alz.70483).
       - bullet: >-
           **Gawor, K.**, …, Thal, D. R. (2024).
           Amygdala-predominant α-synuclein pathology is associated with exacerbated hippocampal
           neuron loss in Alzheimer's disease. *Brain Communications*.
+          DOI: [10.1093/braincomms/fcae442](https://doi.org/10.1093/braincomms/fcae442).
 
     Co-Authored Publications:
       - bullet: >-
           Vermorgen, S. M. M., **Gawor, K.**, …, Thal, D. R. (2026).
           Medial temporal ageing-related tau astrogliopathy below 66 years is associated
           with neurodegeneration. *Brain*.
+          DOI: [10.1093/brain/awag011](https://doi.org/10.1093/brain/awag011).
       - bullet: >-
           Tomé, S. O., **Gawor, K.**, …, Thal, D. R. (2025).
           Differences and overlaps in TDP-43 pathology of ‘pure’ LATE-NC compared to LATE-NC
           coexisting with Alzheimer’s disease. *Acta Neuropathologica*.
+          DOI: [10.1007/s00401-025-02929-9](https://doi.org/10.1007/s00401-025-02929-9).
       - bullet: >-
           Thal, D. R., **Gawor, K.**, & Moonen, B. (2024).
           Regulated cell death and its role in Alzheimer’s disease and amyotrophic lateral sclerosis.
           *Acta Neuropathologica*.
+          DOI: [10.1007/s00401-024-02722-0](https://doi.org/10.1007/s00401-024-02722-0).
       - bullet: >-
           Laureyssen, C., …, **Gawor, K.**, …, Sleegers, K. (2024).
           Hypothesis-based investigation of known AD risk variants reveals the genetic underpinnings
           of neuropathological lesions observed in Alzheimer’s-type dementia.
           *Acta Neuropathologica*.
+          DOI: [10.1007/s00401-024-02815-w](https://doi.org/10.1007/s00401-024-02815-w).
       - bullet: >-
           Thal, D. R., & **Gawor, K.** (2023).
           Cerebral amyloid angiopathy: Neuropathological diagnosis, link to Alzheimer's disease
           and impact on clinics. *Clinical Neuropathology*.
+          DOI: [10.5414/NP301564](https://doi.org/10.5414/NP301564).
       - bullet: >-
           Tomé, S. O., **Gawor, K.**, & Thal, D. R. (2023).
           LATE-NC in Alzheimer's disease: Molecular aspects and synergies. *Brain Pathology*.
+          DOI: [10.1111/bpa.13213](https://doi.org/10.1111/bpa.13213).
       - bullet: >-
           Tomé, S. O., Tsaka, G., …, **Gawor, K.**, …, Thal, D. R. (2023).
           TDP-43 pathology is associated with increased tau burdens and seeding.
           *Molecular Neurodegeneration*.
+          DOI: [10.1186/s13024-023-00653-0](https://doi.org/10.1186/s13024-023-00653-0).
       - bullet: >-
           Koper, M. J., Tomé, S. O., **Gawor, K.**, …, Thal, D. R. (2022).
           LATE-NC aggravates GVD-mediated necroptosis in Alzheimer's disease.
           *Acta Neuropathologica Communications*.
+          DOI: [10.1186/s40478-022-01432-6](https://doi.org/10.1186/s40478-022-01432-6).
       - bullet: >-
           van Rheenen, W., …, **Gawor, K.**, …, Veldink, J. H. (2021).
           Common and rare variant association analyses in amyotrophic lateral sclerosis identify
           15 risk loci with distinct genetic architectures and neuron-specific biology.
           *Nature Genetics*.
+          DOI: [10.1038/s41588-021-00973-1](https://doi.org/10.1038/s41588-021-00973-1).
 
     Oral Presentations:
       - bullet: >-
@@ -188,16 +216,25 @@ cv:
       - bullet: >-
           **Gawor, K.**, oude Lohuis, M., Pennartz, C., & Olcese, U. (2019). Arousal-Induced Changes
           in Cortical State through Areas and Layers of Cortex. *DNM*, Lunteren, the Netherlands.
-      # The year of the ASSC meeting was not given in the source CV.
       - bullet: >-
-          Binder, M., Górska, U., **Gawor, K.**, & Gociewicz, K. Impaired Multisensory Processing
+          Binder, M., Górska, U., **Gawor, K.**, & Gociewicz, K. (2018). Impaired Multisensory Processing
           in Disorders of Consciousness. *22nd Annual Meeting of the ASSC*, Kraków, Poland.
 
-    Mentoring and Student Supervision:
+    Teaching and Mentoring:
       - bullet: '**2021–2025**, KU Leuven — Supervised 3 master’s research projects, 1 bachelor’s project, and 3 research rotation students.'
+      # Lectures began in October 2020; the end date is not documented.
+      - bullet: >-
+          **2020** — Autonomous Educational Space, Warsaw. Delivered free lectures introducing research methodology.
+      - bullet: >-
+          **2016–2017** — Neuroscience for Kids, Kraków. Organized and delivered neuroscience
+          lessons in primary schools.
 
     Academic Service:
       - bullet: >-
           **2024** — Session Chair, AAIC, Philadelphia, USA. Session: Multifaceted Insights into
           Neurodegenerative Pathogenesis: Examining Molecular Mechanisms and Neuropathologic Patterns.
       - bullet: '**2024** — Conference Reporter, The Brain Mosaic, Leuven, Belgium.'
+      - bullet: '**2018** — Conference organization, Neuronus Forum, Kraków, Poland.'
+      - bullet: >-
+          **2018** — Conference organization assistance, 22nd Annual Meeting of the Association
+          for the Scientific Study of Consciousness (ASSC), Kraków, Poland.
