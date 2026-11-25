@@ -9,11 +9,9 @@ profile:
   image: profile.jpg
   image_circular: false
   more_info: >
-    <p>Penn Neuropathology Lab<p>
-    <p>415 Curie Blvd<p>
-    <p>Clinical Research Building 270<p>
-    <p>Philadelphia, PA 19104<p>
-    <p>klara.gawor@pennmedicine.upenn.edu<p>
+    <p>Penn Digital Neuropathology Lab</p>
+    <p>University of Pennsylvania</p>
+    <p>Philadelphia, PA, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
