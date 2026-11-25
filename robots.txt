@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://klara-gawor.github.io/sitemap.xml
