@@ -4,7 +4,7 @@ title: "From the beginning: What is neuropathology and why does it matter?"
 date: 2026-11-26
 description: "An introduction to neuropathology, from brain donation to computational image analysis."
 tags: [neuropathology, computational-neuropathology]
-thumbnail: assets/img/blog/what-is-neuropathology/figure1.png
+thumbnail: assets/img/blog/what-is-neuropathology/thumbnail.png
 categories: [perspectives]
 related_posts: false
 ---
