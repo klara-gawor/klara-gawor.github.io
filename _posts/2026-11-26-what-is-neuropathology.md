@@ -13,19 +13,23 @@ related_posts: false
 
 The brain fascinated me from the very beginning. My first approach to studying it was highly theoretical, as I studied cognitive science at the Department of Philosophy. I quickly realized, however, that the real stuff for me was happening in psychology and neurobiology.
 
-I tried my hand at research in several different labs, developed my first (very bad) algorithm for pupil detection in videos of mice, and, thanks to an amazing internship in genomics, discovered the fascinating world of neurodegenerative diseases.
+I tried my hand at research in several different labs, worked with EEG data, developed my first (very bad) algorithm for pupil detection in videos of mice, and, thanks to an amazing internship in genomics, discovered the fascinating world of neurodegenerative diseases.
 
-Why am I mentioning this? Because all my internships had one thing in common: machines collected data, and we analyzed them.
+Why am I mentioning this? Because all these research experiences had one thing in common: machines collected data, and we analyzed them.
 
 Imagine my surprise when I started my dream PhD and discovered that data collection involved looking at tissue sections and saying, “It looks moderate,” followed by “Hmm, this one looks worse, let's call it severe.”
 
 What do you even mean by that? 😲 What are the criteria? (Shout-out to my great supervisor, Dr. Thal, who survived having me as a PhD student.)
 
-It turns out that this educated judgment, based on experience, established criteria, and intuition, is still remarkably difficult to reproduce with computational methods. Much of the amazing research in neurodegenerative diseases would not have been possible without it.
+It turns out that this educated judgment, based on experience, established criteria, and intuition, is remarkably difficult to reproduce computationally. Much of what we know about neurodegenerative diseases today comes from precisely this kind of assessment.
 
-In my next post, I will explain why. I will also argue that many aspects of neuropathology can be viewed as a highly sophisticated, biology-driven object detection problem — a perspective that could help us standardize and automate parts of the process. This is precisely why I joined Dr. Irwin's lab, as we share a vision of bringing traditional neuropathology and computational approaches together, not simply to automate existing methods, but to ask biological questions that were previously difficult or impossible to address.
+In my next post, I will explain why this approach works so well, despite its seemingly subjective nature. I will also argue that many aspects of neuropathology can be viewed as a highly sophisticated, biology-driven object detection problem — a perspective that could help us standardize and automate parts of the process. This is precisely why I joined Dr. Irwin's lab, where we share a vision of bringing traditional neuropathology and computational approaches together, not simply to automate existing methods, but to ask biological questions that were previously difficult or impossible to address.
 
-So let us begin.
+By now, you have probably realized that I am not a neuropathologist. While I am not qualified to make formal neuropathological diagnoses, I am a neuroscientist and a self-proclaimed neuropathology enthusiast. This brings me to another point I would like to make throughout this blog: neuropathology is much more than a diagnostic discipline.
+
+For those coming from other scientific backgrounds, neuropathology can seem like a rather mysterious world, with its own terminology, methods, and unwritten rules. Yet human brain tissue is an incredibly valuable resource for answering fundamental biological questions. I believe that making neuropathological research more accessible to scientists from different disciplines, while building on the expertise of neuropathologists, would bring new perspectives, methods, and questions to the study of this precious tissue.
+
+With this in mind, let us begin.
 
 ## What is neuropathology?
 
