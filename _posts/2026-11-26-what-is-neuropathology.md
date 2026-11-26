@@ -13,7 +13,7 @@ related_posts: false
 
 The brain fascinated me from the very beginning. My first approach to studying it was highly theoretical, as I studied cognitive science at the Department of Philosophy. I quickly realized, however, that the real stuff for me was happening in psychology and neurobiology.
 
-I tried my hand at research in several different labs, worked with EEG data, developed my first (very bad) algorithm for pupil detection in videos of mice, and, thanks to an amazing internship in genomics, discovered the fascinating world of neurodegenerative diseases.
+I tried my hand at research in several different labs, developed my first (very bad) algorithm for pupil detection in videos of mice, and, thanks to an amazing internship in genomics, discovered the fascinating world of neurodegenerative diseases.
 
 Why am I mentioning this? Because all these research experiences had one thing in common: machines collected data, and we analyzed them.
 
