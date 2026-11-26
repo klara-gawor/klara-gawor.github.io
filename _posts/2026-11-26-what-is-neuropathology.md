@@ -67,7 +67,7 @@ Interestingly, a person who had no neurological symptoms during life may still h
     steps in preparing microscope slides.
     <br>
     <small class="text-muted">
-      Icons adapted from Google (Noto Emoji), Twitter and contributors (Twemoji),
+      Some icons were adapted from Google (Noto Emoji), Twitter and contributors (Twemoji),
       Kenan Gündoğan (Fontisto), Lorc (Game Icons), Streamline,
       and Pictogrammers.
       <a href="{{ '/assets/licenses/ICON_CREDITS.html' | relative_url }}">
@@ -124,7 +124,7 @@ This approach, however, comes with its own set of challenges, which I will explo
     <strong>Figure 2.</strong> Main areas of research involving neuropathological examination.
     <br>
     <small class="text-muted">
-      Icon from Google (Noto Emoji).
+      Brain icon from Google (Noto Emoji).
       <a href="{{ '/assets/licenses/ICON_CREDITS.html' | relative_url }}">
         Sources and licenses
       </a>.
