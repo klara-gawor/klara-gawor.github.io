@@ -55,7 +55,7 @@ Interestingly, a person who had no neurological symptoms during life may still h
   <img src="{{ '/assets/img/blog/what-is-neuropathology/figure1.png' | relative_url }}"
        class="img-fluid rounded"
        alt="Neuropathological pipeline"
-       style="width: 60%; height: auto; display: block; margin: auto;">
+       style="width: 35%; height: auto; display: block; margin: auto;">
   <figcaption>
     <strong>Figure 1.</strong> An overview of brain tissue preservation and the main steps in preparing microscope slides.
   </figcaption>
