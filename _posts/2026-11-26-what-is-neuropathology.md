@@ -41,7 +41,9 @@ Neuropathologists also differ from **neurologists**, who primarily work directly
 
 The brain, however, is a particularly difficult organ to study. Unlike many other organs, it is relatively inaccessible during life, and removing even a small piece of it can have serious consequences. As a result, much of what we know about the cellular and molecular changes occurring in the human brain during neurodegeneration comes from studying **postmortem tissue**.
 
-The unique characteristics of the brain have also led neuropathology to develop its own methods, terminology, and lingo. One interesting example is the word *pathology* itself. Although it broadly refers to disease-related abnormalities, researchers studying neurodegeneration\* often use it to describe abnormal accumulations of proteins, such as tau, alpha-synuclein, or TDP-43. These protein aggregates are a hallmark of many neurodegenerative diseases, although their exact role in disease development and progression is still being investigated \[[3](#ref-3)\].
+Although neuropathology covers a wide range of conditions, from brain tumors to infections, strokes, and developmental abnormalities, neurodegenerative diseases occupy a special place within the field. While many other neurological conditions can be reliably diagnosed during life, postmortem neuropathological examination has historically been, and often remains, the gold standard for confirming the underlying causes of neurodegenerative diseases  \[[3](#ref-3), [12](#ref-12)\].
+
+For this reason, and because neurodegenerative diseases are the focus of my own research, this blog will primarily explore the changes that occur in the human brain during aging and neurodegeneration.
 
 ## Where does human brain tissue come from?
 
@@ -123,7 +125,6 @@ What I find particularly fascinating about neuropathology is that, despite more 
 
 In future posts, I would like to explore how we study the human brain, what our methods can and cannot tell us, and how computational approaches might help answer some of the questions that remain unresolved.
 
-\* Although neuropathology covers a wide range of conditions, from brain tumors to infections and developmental abnormalities, I will focus here on neurodegenerative diseases, which are the subject of my own research.
 
 ## Words to use to impress a neuropathologist
 
