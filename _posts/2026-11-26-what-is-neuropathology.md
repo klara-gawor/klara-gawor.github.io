@@ -63,7 +63,17 @@ Interestingly, a person who had no neurological symptoms during life may still h
        alt="Neuropathological pipeline"
        style="width: 100%; height: auto; display: block; margin: auto;">
   <figcaption>
-    <strong>Figure 1.</strong> An overview of brain tissue preservation and the main steps in preparing microscope slides.
+    <strong>Figure 1.</strong> An overview of brain tissue preservation and the main
+    steps in preparing microscope slides.
+    <br>
+    <small class="text-muted">
+      Icons adapted from Google (Noto Emoji), Twitter and contributors (Twemoji),
+      Kenan Gündoğan (Fontisto), Lorc (Game Icons), Streamline,
+      and Pictogrammers.
+      <a href="{{ '/assets/licenses/ICON_CREDITS.html' | relative_url }}">
+        Sources and licenses
+      </a>.
+    </small>
   </figcaption>
 </figure>
 
