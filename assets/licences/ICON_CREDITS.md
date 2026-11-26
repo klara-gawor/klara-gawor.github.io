@@ -17,7 +17,7 @@ modified or adapted for use in these illustrations.
 
 ## Twemoji
 
-- Icon: [Jar](https://iconbuddy.com/twemoji/jar)
+- Icons: [Jar](https://iconbuddy.com/twemoji/jar), [Microscope](https://iconbuddy.com/twemoji/microscope)
 - Author: [Twitter, Inc. and other contributors](https://github.com/twitter/twemoji)
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
