@@ -27,7 +27,7 @@ In my next post, I will explain why this approach works so well, despite its see
 
 By now, you have probably realized that I am not a neuropathologist. While I am not qualified to make formal neuropathological diagnoses, I am a neuroscientist and a self-proclaimed neuropathology enthusiast. This brings me to another point I would like to make throughout this blog: neuropathology is much more than a diagnostic discipline.
 
-For those coming from other scientific backgrounds, neuropathology can seem like a rather mysterious world, with its own terminology, methods, and unwritten rules. Yet human brain tissue is an incredibly valuable resource for answering fundamental biological questions. I believe that making neuropathological research more accessible to scientists from different disciplines, while building on the expertise of neuropathologists, would bring new perspectives, methods, and questions to the study of this precious tissue.
+For those coming from other scientific backgrounds, neuropathology can seem like a rather mysterious world, with its own terminology, methods, and unwritten rules. Yet human brain tissue offers a unique opportunity to answer fundamental biological questions. I believe that making neuropathological research more accessible to scientists from different disciplines, while building on the expertise of neuropathologists, could bring new perspectives and methods to the field and open up entirely new avenues of research.
 
 With this in mind, let us begin.
 
