@@ -123,21 +123,21 @@ In future posts, I would like to explore how we study the human brain, what our 
 
 ## Words to use to impress a neuropathologist
 
-- **Postmortem tissue** tissue collected after death.
-- **Brain bank** an institution that collects, preserves, characterizes, and distributes human brain tissue for research.
-- **Protein aggregates** abnormal accumulations of proteins that can form within or outside cells (often informally referred to as “pathology”).
-- **Atrophy** a reduction in the size or volume of a tissue or organ.
-- **Macroscopic examination** examination of tissue structures and abnormalities visible without a microscope.
-- **Fixation** preservation of tissue, usually using chemicals, to prevent degradation and maintain its structure.
-- **Coronal slab** a relatively thick slice of the brain cut in a plane that separates its front and back.
-- **Tissue block** a small piece of tissue collected for further processing and examination.
-- **Paraffin embedding** the process of embedding tissue in wax to provide support for cutting thin sections.
-- **Microtome** an instrument used to cut very thin tissue sections.
-- **Immunohistochemistry** a technique that uses antibodies to visualize specific targets within tissue sections.
-- **Immunofluorescence** a technique that uses antibodies and fluorescent labels to visualize specific targets.
-- **Semiquantitative scoring** assessing the extent or severity of tissue changes using ordered categories rather than direct numerical measurements.
-- **Whole-slide image** a high-resolution digital image of the tissue on a microscope slide.
-- **Computational neuropathology** the application of computational methods to the detection, measurement, and interpretation of neuropathological features.
+- **Postmortem tissue**: tissue collected after death.
+- **Brain bank**: an institution that collects, preserves, characterizes, and distributes human brain tissue for research.
+- **Protein aggregates**: abnormal accumulations of proteins that can form within or outside cells (often informally referred to as “pathology”).
+- **Atrophy**: a reduction in the size or volume of a tissue or organ.
+- **Macroscopic examination**: examination of tissue structures and abnormalities visible without a microscope.
+- **Fixation**: preservation of tissue, usually using chemicals, to prevent degradation and maintain its structure.
+- **Coronal slab**: a relatively thick slice of the brain cut in a plane that separates its front and back.
+- **Tissue block**: a small piece of tissue collected for further processing and examination.
+- **Paraffin embedding**: the process of embedding tissue in wax to provide support for cutting thin sections.
+- **Microtome**: an instrument used to cut very thin tissue sections.
+- **Immunohistochemistry**: a technique that uses antibodies to visualize specific targets within tissue sections.
+- **Immunofluorescence**: a technique that uses antibodies and fluorescent labels to visualize specific targets.
+- **Semiquantitative scoring**: assessing the extent or severity of tissue changes using ordered categories rather than direct numerical measurements.
+- **Whole-slide image**: a high-resolution digital image of the tissue on a microscope slide.
+- **Computational neuropathology**: the application of computational methods to the detection, measurement, and interpretation of neuropathological features.
 
 ## References
 
