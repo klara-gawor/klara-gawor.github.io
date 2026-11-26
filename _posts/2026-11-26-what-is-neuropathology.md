@@ -175,3 +175,6 @@ A comprehensive, freely accessible, illustrated compendium of neuropathology, co
 **[WebPath: Neuropathology – University of Utah](https://webpath.med.utah.edu/CNSHTML/CNSIDX.html)**
 
 An extensive educational collection of macroscopic and microscopic images illustrating different diseases of the nervous system.
+
+
+The views expressed in this article are my own and do not represent those of my affiliated institutions.
