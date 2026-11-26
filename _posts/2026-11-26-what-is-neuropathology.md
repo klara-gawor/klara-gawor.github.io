@@ -21,7 +21,7 @@ Imagine my surprise when I started my dream PhD and discovered that data collect
 
 What do you even mean by that? 😲 What are the criteria? (Shout-out to my great supervisor, Dr. Thal, who survived having me as a PhD student.)
 
-It turns out that this educated judgment, based on experience, established criteria, and intuition, is remarkably difficult to reproduce computationally. Much of what we know about neurodegenerative diseases today comes from precisely this kind of assessment.
+It turns out that this educated judgment, a combination of experience, established criteria, and intuition, is remarkably difficult to reproduce computationally. Much of what we know about neurodegenerative diseases today comes from precisely this kind of assessment.
 
 In my next post, I will explain why this approach works so well, despite its seemingly subjective nature. I will also argue that many aspects of neuropathology can be viewed as a highly sophisticated, biology-driven object detection problem — a perspective that could help us standardize and automate parts of the process. This is precisely why I joined Dr. Irwin's lab, where we share a vision of bringing traditional neuropathology and computational approaches together, not simply to automate existing methods, but to ask biological questions that were previously difficult or impossible to address.
 
