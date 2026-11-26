@@ -9,11 +9,11 @@ categories: [perspectives]
 related_posts: false
 ---
 
-## Briefly about me
+## How I ended up in neuropathology
 
 The brain fascinated me from the very beginning. My first approach to studying it was highly theoretical, as I studied cognitive science at the Department of Philosophy. I quickly realized, however, that the real stuff for me was happening in psychology and neurobiology.
 
-I tried my hand at research in several different labs, which helped me understand how data are generated, what tools we have to analyze them, and how similar these approaches actually are. I developed my first (very bad) algorithm for pupil detection in videos of mice, experimented with genetics, and, thanks to an amazing internship, discovered the field of neurodegenerative diseases and the fascinating links between Alzheimer's disease, frontotemporal dementia, and dementia with Lewy bodies.
+I tried my hand at research in several different labs, developed my first (very bad) algorithm for pupil detection in videos of mice, and, thanks to an amazing internship in genomics, discovered the fascinating world of neurodegenerative diseases.
 
 Why am I mentioning this? Because all my internships had one thing in common: machines collected data, and we analyzed them.
 
