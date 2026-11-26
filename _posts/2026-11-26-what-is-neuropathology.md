@@ -122,9 +122,15 @@ This approach, however, comes with its own set of challenges, which I will explo
        style="width: 60%; height: auto; display: block; margin: auto;">
   <figcaption>
     <strong>Figure 2.</strong> Main areas of research involving neuropathological examination.
+    <br>
+    <small class="text-muted">
+      Icon from Google (Noto Emoji).
+      <a href="{{ '/assets/licenses/ICON_CREDITS.html' | relative_url }}">
+        Sources and licenses
+      </a>.
+    </small>
   </figcaption>
 </figure>
-
 By examining changes at the cellular and molecular levels, neuropathology helps us understand the biological processes underlying neurological diseases. It also teaches us about normal brain structure, how the brain ages, and how it differs between individuals.
 
 Interestingly, two patients may present with very similar symptoms but have quite different underlying diseases. Conversely, two individuals with similar pathological changes in their brains may have experienced very different symptoms during life \[[3](#ref-3), [6](#ref-6)\].
