@@ -27,11 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher at the University of Pennsylvania , investigating the mechanisms underlying neurodegenerative diseases by combining neuropathological and computational approaches.
-I work in Penn Digital Neuropathology Lab under prof. David Irwin.
+I am a neuroscientist and postdoctoral researcher in the Penn Digital Neuropathology Lab at the University of Pennsylvania, working with Prof. David Irwin.
 
-I obtained my PhD in Biomedical Sciences at KU Leuven, where I studied the heterogeneity of Alzheimer’s disease, focusing on co-pathologies, risk factors, and patterns of hippocampal degeneration. Prior to this, I completed a Master’s degree in Brain and Cognitive Science at the University of Amsterdam.
+My research focuses on the biological mechanisms underlying heterogeneity in neurodegenerative diseases, with a particular interest in co-pathologies, selective neuronal vulnerability, and the neuroanatomical distribution of pathology. My research integrates quantitative neuropathology with genetic, clinical, and neuroimaging data. I also develop computational methods for automated tissue characterization and spatial analysis of brain pathology, with an emphasis on biological relevance, reliability, and reproducibility.
 
-My research focuses on how co-pathologies and their interactions contribute to selective neuronal vulnerability and disease heterogeneity. I combine quantitative neuropathology, computational image analysis, and in vivo and postmortem data to investigate these mechanisms.
-
-I am also interested in developing computational neuropathology methods, addressing their limitations, and improving their reliability and reproducibility.
+I obtained my PhD in Biomedical Sciences at KU Leuven, where I investigated the heterogeneity of Alzheimer’s disease, focusing on co-pathologies, risk factors, and patterns of hippocampal degeneration. I previously completed a Master’s degree in Brain and Cognitive Science at the University of Amsterdam.
