@@ -66,8 +66,8 @@ There are numerous sources of variability in histological images, some biologica
     <br><br>
     Image credit: Jessica S. Sadick and Shane A. Liddelow,
     The Cell Image Library,
-    <a href="https://doi.org/10.7295/W9CIL54487">CIL:54487</a> and
-    <a href="https://doi.org/10.7295/W9CIL54467">CIL:54467</a>.
+    <a href="https://doi.org/10.7295/W9CIL54467">CIL:54467</a> and
+    <a href="https://doi.org/10.7295/W9CIL54487">CIL:54487</a>.
     Images cropped from the original whole-slide images.
     License: <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">
     CC BY-NC-SA 3.0</a>.
