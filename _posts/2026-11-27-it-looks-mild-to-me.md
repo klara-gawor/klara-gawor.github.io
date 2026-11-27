@@ -120,9 +120,11 @@ When characterizing pathological changes, there are generally three questions of
 - **How much is there?** Are there just a few pathological structures, or is the entire region severely affected? To what extent are cells and tissue structures damaged?
 - **Where are they?** Which brain regions are affected? Is the pathology in gray or white matter? Is it intracellular or extracellular? Does it affect neurons, glial cells, or blood vessels?
 
-One approach is simply to describe the observed changes. Written reports remain one of the most important documents produced by neuropathologists. However, free-text descriptions can vary between neuropathologists, and transforming them into standardized data suitable for large-scale research is not always straightforward.
+One approach is simply to describe the observed changes. Written reports remain one of the most important documents produced by neuropathologists. However, free-text descriptions can vary between neuropathologists, and translating them into standardized data suitable for large-scale research is not always straightforward.
 
-Several approaches are used to systematically describe and measure neuropathological changes. Let us go through them one by one.
+Over the past few decades, considerable efforts have been made to standardize neuropathological assessment. Consensus guidelines and classification systems have been developed for many neurodegenerative diseases, including Alzheimer's disease [5], [6], Lewy body disease [7], [8], [9], and frontotemporal lobar degeneration [10], [11]. Depending on the disease, these guidelines provide recommendations on which brain regions to examine, which staining methods to use, what pathological structures to look for, and how to assess them.
+
+Although the specific criteria differ between diseases, many rely on similar approaches to describing and measuring pathological changes. Let us go through them one by one.
 
 <figure>
   <img src="/assets/img/blog/it-looks-mild-to-me/figure3.png"
@@ -154,8 +156,6 @@ But what exactly does *moderate* mean?
 In many situations, the assessment relies on a combination of established criteria, visual reference examples, and previous experience. Essentially, does it look mild, moderate, or severe to you, considering all the examples of this particular pathology that you have previously encountered?
 
 This is not necessarily a bad approach. Experienced neuropathologists can integrate a remarkable amount of visual and biological information into a relatively quick assessment. However, communicating and reproducing that assessment is not always straightforward.
-
-Over the past few decades, considerable efforts have been made to standardize neuropathological assessment. Consensus guidelines and classification systems are available for many neurodegenerative diseases, including Alzheimer's disease [[5]](#ref-5), [[6]](#ref-6), Lewy body disease [[7]](#ref-7), [[8]](#ref-8), [[9]](#ref-9), and frontotemporal lobar degeneration [[10]](#ref-10), [[11]](#ref-11). Depending on the disease, these guidelines provide recommendations on which brain regions to examine, which staining methods to use, and how to assess and classify pathological changes. However, even with relatively detailed guidelines, many aspects of neuropathological assessment still rely on the experience and judgment of the individual neuropathologist.
 
 ## What exactly does moderate plaque density mean?
 
