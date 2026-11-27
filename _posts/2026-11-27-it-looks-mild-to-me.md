@@ -162,7 +162,7 @@ Let us consider one of the best-known examples of semiquantitative assessment in
 <figure>
   <img src="/assets/img/blog/it-looks-mild-to-me/figure4.png"
        alt="CERAD neuritic plaque density categories and examples of spatial variability"
-       style="width: 100%;">
+       style="width: 85%; height: auto; display: block; margin: auto;">
   <figcaption>
     <strong>Figure 4. Semiquantitative assessment of neuritic plaque density.</strong>
     Top: schematic illustrations of sparse, moderate, and frequent neuritic plaques,
