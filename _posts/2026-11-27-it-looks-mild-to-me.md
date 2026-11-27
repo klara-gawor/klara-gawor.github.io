@@ -28,7 +28,7 @@ However, recognizing objects is still a skill that needs to be developed. At the
     Image credit: Jessica S. Sadick and Shane A. Liddelow (2022),
     The Cell Image Library,
     <a href="https://doi.org/10.7295/W9CIL54453">CIL:54453</a>.
-    Images cropped from the original whole-slide image and arranged by the author.
+    Images cropped from the original whole-slide image.
     License: <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">
     CC BY-NC-SA 3.0</a>.
   </figcaption>
