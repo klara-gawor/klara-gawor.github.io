@@ -89,7 +89,7 @@ Of course, this is a simplified classification, and these categories are not mut
 <figure>
   <img src="/assets/img/blog/it-looks-mild-to-me/figure2.png"
        alt="Examples of neuropathological changes in the aging human brain"
-       style="width: 70%;">
+       style="width: 70%; height: auto; display: block; margin: auto;">
   <figcaption>
     <strong>Figure 2. Examples of neuropathological changes in the aging human brain.</strong>
     (A) Neurofibrillary tangles (arrows), pretangles (arrowhead), and dystrophic neurites.
