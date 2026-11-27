@@ -155,9 +155,11 @@ In many situations, the assessment relies on a combination of established criter
 
 This is not necessarily a bad approach. Experienced neuropathologists can integrate a remarkable amount of visual and biological information into a relatively quick assessment. However, communicating and reproducing that assessment is not always straightforward.
 
+Over the past few decades, considerable efforts have been made to standardize neuropathological assessment. Consensus guidelines and classification systems are available for many neurodegenerative diseases, including Alzheimer's disease [[5]](#ref-5), [[6]](#ref-6), Lewy body disease [[7]](#ref-7), [[8]](#ref-8), [[9]](#ref-9), and frontotemporal lobar degeneration [[10]](#ref-10), [[11]](#ref-11). Depending on the disease, these guidelines provide recommendations on which brain regions to examine, which staining methods to use, and how to assess and classify pathological changes. However, even with relatively detailed guidelines, many aspects of neuropathological assessment still rely on the experience and judgment of the individual neuropathologist.
+
 ## What exactly does moderate plaque density mean?
 
-Let us consider one of the best-known examples of semiquantitative assessment in neuropathology: the criteria developed by the Consortium to Establish a Registry for Alzheimer’s Disease (CERAD). Published in 1991, these guidelines aimed to standardize the neuropathological assessment of Alzheimer's disease and included reference images illustrating different densities of neuritic plaques [[5]](#ref-5), which I have tried to represent schematically below.
+Let us consider one of the best-known examples of semiquantitative assessment in neuropathology: the criteria developed by the Consortium to Establish a Registry for Alzheimer’s Disease (CERAD). Published in 1991, these guidelines aimed to standardize the neuropathological assessment of Alzheimer's disease and included reference images illustrating different densities of neuritic plaques [[12]](#ref-12), which I have tried to represent schematically below.
 
 <figure>
   <img src="/assets/img/blog/it-looks-mild-to-me/figure4.png"
@@ -188,7 +190,7 @@ The three microscopy images above give quite different impressions of plaque den
 
 Which image best represents the severity of pathology in this region? Should the assessment reflect the average plaque density, the most severely affected area, or an area considered representative?
 
-The CERAD criteria focus on the areas of highest neuritic plaque density in the neocortex. However, identifying these areas, recognizing neuritic plaques, and estimating their density can still introduce variability between observers. CERAD investigators themselves addressed interlaboratory variability in 1994 [[6]](#ref-6).
+The CERAD criteria focus on the areas of highest neuritic plaque density in the neocortex. However, identifying these areas, recognizing neuritic plaques, and estimating their density can still introduce variability between observers. CERAD investigators themselves addressed interlaboratory variability in 1994 [[13]](#ref-13).
 
 Can we assume that everyone has interpreted these guidelines in exactly the same way over the past few decades? Probably not.
 
@@ -202,16 +204,16 @@ Many neurodegenerative diseases are characterized by relatively stereotypical pa
 
 Examples include:
 
-- Thal phases of amyloid-β deposition [[7]](#ref-7).
-- Braak stages of neurofibrillary tau pathology in Alzheimer's disease [[8]](#ref-8).
-- Braak stages of Lewy pathology in Parkinson's disease [[9]](#ref-9).
-- Staging of tau pathology in progressive supranuclear palsy (PSP) [[10]](#ref-10).
-- Staging of cerebral amyloid angiopathy (CAA) [[11]](#ref-11).
-- Staging of limbic-predominant age-related TDP-43 encephalopathy neuropathological change (LATE-NC) [[12]](#ref-12).
+- Thal phases of amyloid-β deposition [[14]](#ref-14).
+- Braak stages of neurofibrillary tau pathology in Alzheimer's disease [[15]](#ref-15).
+- Braak stages of Lewy pathology in Parkinson's disease [[16]](#ref-16).
+- Staging of tau pathology in progressive supranuclear palsy (PSP) [[17]](#ref-17).
+- Staging of cerebral amyloid angiopathy (CAA) [[18]](#ref-18).
+- Staging of limbic-predominant age-related TDP-43 encephalopathy neuropathological change (LATE-NC) [[19]](#ref-19).
 
 Several of these staging systems are important components of contemporary neuropathological diagnostic criteria. They also provide a relatively time-efficient way of assessing pathology. Rather than examining every brain region, neuropathologists can examine a selection of regions that are informative about different stages of the pathological process.
 
-Some protocols even recommend a stepwise approach: if pathology is absent from selected screening regions, additional staining may not be necessary [[13]](#ref-13).
+Some protocols even recommend a stepwise approach: if pathology is absent from selected screening regions, additional staining may not be necessary [[6]](#ref-6).
 
 This is a very practical approach, although it comes with limitations. Staging systems are largely based on observations across different individuals rather than direct observations of pathological progression within the same individual. Moreover, two individuals assigned to the same stage can differ substantially in the amount of pathology present in individual brain regions.
 
@@ -221,7 +223,7 @@ And, of course, there are always cases that refuse to fit neatly into our classi
 
 An alternative to assigning pathology to broad categories is **manual counting**. For example, pathological inclusions can be counted, and their density expressed as the number of inclusions per square millimeter of tissue.
 
-Interestingly, the 2012 National Institute on Aging–Alzheimer's Association (NIA-AA) guidelines for the neuropathological assessment of Alzheimer's disease provide numerical examples of neuritic plaque densities corresponding to different CERAD categories [[13]](#ref-13). This provides a more explicit reference for interpreting the categories, although the final CERAD score remains semiquantitative.
+Interestingly, the 2012 National Institute on Aging–Alzheimer's Association (NIA-AA) guidelines for the neuropathological assessment of Alzheimer's disease provide numerical examples of neuritic plaque densities corresponding to different CERAD categories [[6]](#ref-6). This provides a more explicit reference for interpreting the categories, although the final CERAD score remains semiquantitative.
 
 However, manually counting pathological structures across large tissue sections and multiple brain regions is extremely time-consuming. Things become even more complicated when the objective is to estimate the number of objects in three-dimensional tissue rather than simply count their profiles in two-dimensional sections.
 
@@ -253,23 +255,35 @@ This is where computational neuropathology comes into play, and where things sta
 
 4. <a id="ref-4"></a> Gawor K. *Heterogeneity of Alzheimer's disease: co-pathologies, APOE ε4, and hippocampal degeneration*. Doctoral dissertation. KU Leuven; 2025. [LIRIAS4233812](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4233812&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4233812&offset=0).
 
-5. <a id="ref-5"></a> Mirra SS, et al. The Consortium to Establish a Registry for Alzheimer's Disease (CERAD). Part II. Standardization of the neuropathologic assessment of Alzheimer's disease. *Neurology*. 1991;41(4):479–486. [doi:10.1212/WNL.41.4.479](https://doi.org/10.1212/WNL.41.4.479).
+5. <a id="ref-5"></a> Hyman BT, et al. National Institute on Aging–Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease. *Alzheimers Dement*. 2012;8(1):1–13. [doi:10.1016/j.jalz.2011.10.007](https://doi.org/10.1016/j.jalz.2011.10.007).
 
-6. <a id="ref-6"></a> Mirra SS, et al. Interlaboratory comparison of neuropathology assessments in Alzheimer's disease: a study of the Consortium to Establish a Registry for Alzheimer's Disease (CERAD). *J Neuropathol Exp Neurol*. 1994;53(3):303–315. [doi:10.1097/00005072-199405000-00012](https://doi.org/10.1097/00005072-199405000-00012).
+6. <a id="ref-6"></a> Montine TJ, et al. National Institute on Aging–Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease: a practical approach. *Acta Neuropathol*. 2012;123:1–11. [doi:10.1007/s00401-011-0910-3](https://doi.org/10.1007/s00401-011-0910-3).
 
-7. <a id="ref-7"></a> Thal DR, Rüb U, Orantes M, Braak H. Phases of Aβ-deposition in the human brain and its relevance for the development of AD. *Neurology*. 2002;58(12):1791–1800. [doi:10.1212/WNL.58.12.1791](https://doi.org/10.1212/WNL.58.12.1791).
+7. <a id="ref-7"></a> McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: third report of the DLB Consortium. *Neurology*. 2005;65(12):1863–1872. [doi:10.1212/01.wnl.0000187889.17253.b1](https://doi.org/10.1212/01.wnl.0000187889.17253.b1).
 
-8. <a id="ref-8"></a> Braak H, Braak E. Neuropathological stageing of Alzheimer-related changes. *Acta Neuropathol*. 1991;82:239–259. [doi:10.1007/BF00308809](https://doi.org/10.1007/BF00308809).
+8. <a id="ref-8"></a> McKeith IG, et al. Diagnosis and management of dementia with Lewy bodies: fourth consensus report of the DLB Consortium. *Neurology*. 2017;89(1):88–100. [doi:10.1212/WNL.0000000000004058](https://doi.org/10.1212/WNL.0000000000004058).
 
-9. <a id="ref-9"></a> Braak H, et al. Staging of brain pathology related to sporadic Parkinson's disease. *Neurobiol Aging*. 2003;24(2):197–211. [doi:10.1016/S0197-4580(02)00065-9](https://doi.org/10.1016/S0197-4580(02)00065-9).
+9. <a id="ref-9"></a> Attems J, et al. Neuropathological consensus criteria for the evaluation of Lewy pathology in post-mortem brains: a multi-centre study. *Acta Neuropathol*. 2021;141:159–172. [doi:10.1007/s00401-020-02255-2](https://doi.org/10.1007/s00401-020-02255-2).
 
-10. <a id="ref-10"></a> Kovacs GG, et al. Distribution patterns of tau pathology in progressive supranuclear palsy. *Acta Neuropathol*. 2020;140:99–119. [doi:10.1007/s00401-020-02158-2](https://doi.org/10.1007/s00401-020-02158-2).
+10. <a id="ref-10"></a> Mackenzie IR, et al. Nomenclature and nosology for neuropathologic subtypes of frontotemporal lobar degeneration: an update. *Acta Neuropathol*. 2010;119(1):1–4. [doi:10.1007/s00401-009-0612-2](https://doi.org/10.1007/s00401-009-0612-2).
 
-11. <a id="ref-11"></a> Thal DR, Ghebremedhin E, Orantes M, Wiestler OD. Vascular pathology in Alzheimer disease: correlation of cerebral amyloid angiopathy and arteriosclerosis/lipohyalinosis with cognitive decline. *J Neuropathol Exp Neurol*. 2003;62(12):1287–1301. [doi:10.1093/jnen/62.12.1287](https://doi.org/10.1093/jnen/62.12.1287).
+11. <a id="ref-11"></a> Mackenzie IR, et al. A harmonized classification system for FTLD-TDP pathology. *Acta Neuropathol*. 2011;122(1):111–113. [doi:10.1007/s00401-011-0845-8](https://doi.org/10.1007/s00401-011-0845-8).
 
-12. <a id="ref-12"></a> Nelson PT, et al. Limbic-predominant age-related TDP-43 encephalopathy (LATE): consensus working group report. *Brain*. 2019;142(6):1503–1527. [doi:10.1093/brain/awz099](https://doi.org/10.1093/brain/awz099).
+12. <a id="ref-12"></a> Mirra SS, et al. The Consortium to Establish a Registry for Alzheimer's Disease (CERAD). Part II. Standardization of the neuropathologic assessment of Alzheimer's disease. *Neurology*. 1991;41(4):479–486. [doi:10.1212/WNL.41.4.479](https://doi.org/10.1212/WNL.41.4.479).
 
-13. <a id="ref-13"></a> Montine TJ, et al. National Institute on Aging–Alzheimer's Association guidelines for the neuropathologic assessment of Alzheimer's disease: a practical approach. *Acta Neuropathol*. 2012;123:1–11. [doi:10.1007/s00401-011-0910-3](https://doi.org/10.1007/s00401-011-0910-3).
+13. <a id="ref-13"></a> Mirra SS, et al. Interlaboratory comparison of neuropathology assessments in Alzheimer's disease: a study of the Consortium to Establish a Registry for Alzheimer's Disease (CERAD). *J Neuropathol Exp Neurol*. 1994;53(3):303–315. [doi:10.1097/00005072-199405000-00012](https://doi.org/10.1097/00005072-199405000-00012).
+
+14. <a id="ref-14"></a> Thal DR, Rüb U, Orantes M, Braak H. Phases of Aβ-deposition in the human brain and its relevance for the development of AD. *Neurology*. 2002;58(12):1791–1800. [doi:10.1212/WNL.58.12.1791](https://doi.org/10.1212/WNL.58.12.1791).
+
+15. <a id="ref-15"></a> Braak H, Braak E. Neuropathological stageing of Alzheimer-related changes. *Acta Neuropathol*. 1991;82:239–259. [doi:10.1007/BF00308809](https://doi.org/10.1007/BF00308809).
+
+16. <a id="ref-16"></a> Braak H, et al. Staging of brain pathology related to sporadic Parkinson's disease. *Neurobiol Aging*. 2003;24(2):197–211. [doi:10.1016/S0197-4580(02)00065-9](https://doi.org/10.1016/S0197-4580(02)00065-9).
+
+17. <a id="ref-17"></a> Kovacs GG, et al. Distribution patterns of tau pathology in progressive supranuclear palsy. *Acta Neuropathol*. 2020;140:99–119. [doi:10.1007/s00401-020-02158-2](https://doi.org/10.1007/s00401-020-02158-2).
+
+18. <a id="ref-18"></a> Thal DR, Ghebremedhin E, Orantes M, Wiestler OD. Vascular pathology in Alzheimer disease: correlation of cerebral amyloid angiopathy and arteriosclerosis/lipohyalinosis with cognitive decline. *J Neuropathol Exp Neurol*. 2003;62(12):1287–1301. [doi:10.1093/jnen/62.12.1287](https://doi.org/10.1093/jnen/62.12.1287).
+
+19. <a id="ref-19"></a> Nelson PT, et al. Limbic-predominant age-related TDP-43 encephalopathy (LATE): consensus working group report. *Brain*. 2019;142(6):1503–1527. [doi:10.1093/brain/awz099](https://doi.org/10.1093/brain/awz099).
 
 ## Useful resources
 
