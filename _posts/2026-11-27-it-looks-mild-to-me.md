@@ -3,7 +3,7 @@ layout: post
 title: '“It looks mild to me”: How neuropathologists assess neurodegenerative disease'
 date: 2026-11-27
 description: "How neuropathologists assess neurodegenerative changes, from semiquantitative scores and staging to quantitative methods, and why this matters for computational neuropathology."
-thumbnail: assets/img/blog/what-is-neuropathology/thumbnail.png
+thumbnail: assets/img/blog/it-looks-mild-to-me/thumbnail.png
 categories: perspectives
 related_posts: false
 ---
@@ -89,7 +89,7 @@ Of course, this is a simplified classification, and these categories are not mut
 <figure>
   <img src="/assets/img/blog/it-looks-mild-to-me/figure2.png"
        alt="Examples of neuropathological changes in the aging human brain"
-       style="width: 100%;">
+       style="width: 70%;">
   <figcaption>
     <strong>Figure 2. Examples of neuropathological changes in the aging human brain.</strong>
     (A) Neurofibrillary tangles (arrows), pretangles (arrowhead), and dystrophic neurites.
