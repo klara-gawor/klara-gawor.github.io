@@ -22,30 +22,30 @@ cv:
           multivariate analysis, and integration of in vivo and postmortem data.
 
     Experience:
-    - company: University of Pennsylvania — Penn Neuropathology Lab
+      - company: University of Pennsylvania — Penn Neuropathology Lab
         position: Postdoctoral Researcher
         location: Philadelphia, USA
         start_date: '2025-10'
         end_date: present
         highlights:
-        - 'Supervisor: David Irwin'
-        - 'Additional mentorship: Daniel Ohm'
-        - Investigating the overlap between Alzheimer’s disease and α-synuclein pathology in older patients with neurodegenerative diseases.
-        - Linking neuroanatomical patterns of mixed pathology to clinical, genetic, and neuroimaging findings.
-        - Investigating the heterogeneity of cortical pathology in progressive supranuclear palsy (PSP) using deep learning.
-        - Developing quantitative neuropathology methods for immunohistochemistry and spatial multiplex imaging.
+          - 'Supervisor: David Irwin'
+          - 'Additional mentorship: Daniel Ohm'
+          - Investigating the overlap between Alzheimer’s disease and α-synuclein pathology in older patients with neurodegenerative diseases.
+          - Linking neuroanatomical patterns of mixed pathology to clinical, genetic, and neuroimaging findings.
+          - Investigating the heterogeneity of cortical pathology in progressive supranuclear palsy (PSP) using deep learning.
+          - Developing quantitative neuropathology methods for immunohistochemistry and spatial multiplex imaging.
       - company: KU Leuven — Laboratory of Neuropathology
         position: Doctoral Researcher
         location: Leuven, Belgium
         start_date: '2021-07'
         end_date: '2025-07'
         highlights:
-        - 'Supervisors: D. R. Thal, R. Vandenberghe, and M. Blaschko.'
-        - 'Thesis: Heterogeneity of Alzheimer’s disease: co-pathologies, risk factors, and patterns of hippocampal degeneration.'
-        - Investigating the contribution of co-pathologies to hippocampal degeneration and selective neuronal vulnerability.
-        - Examining the relationships between Aβ, tau, α-synuclein, and TDP-43 pathologies in the limbic system.
-        - Investigating associations between genetic risk factors and distinct neuropathological phenotypes of Alzheimer’s disease.
-        - Developing a deep learning model for automated neuronal detection and quantification in the hippocampal CA1 region.
+          - 'Supervisors: D. R. Thal, R. Vandenberghe, and M. Blaschko.'
+          - 'Thesis: Heterogeneity of Alzheimer’s disease: co-pathologies, risk factors, and patterns of hippocampal degeneration.'
+          - Investigating the contribution of co-pathologies to hippocampal degeneration and selective neuronal vulnerability.
+          - Examining the relationships between Aβ, tau, α-synuclein, and TDP-43 pathologies in the limbic system.
+          - Investigating associations between genetic risk factors and distinct neuropathological phenotypes of Alzheimer’s disease.
+          - Developing a deep learning model for automated neuronal detection and quantification in the hippocampal CA1 region.
       - company: University of Antwerp — Genetics of Alzheimer's Disease Laboratory
         position: Visiting Researcher
         location: Antwerp, Belgium
