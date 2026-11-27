@@ -19,7 +19,7 @@ Why am I mentioning this? Because all these research experiences had one thing i
 
 Imagine my surprise when I started my dream PhD and discovered that data collection involved looking at tissue sections and saying, “It looks moderate,” followed by “Hmm, this one looks worse, let's call it severe.”
 
-What do you even mean by that? 😲 What are the criteria? (Shout-out to my great supervisor, Dr. Thal, who survived having me as a PhD student.)
+What do you even mean by that? 😲 What are the criteria? (Shout-out to my great former supervisor, Dr. Thal, who survived having me as a PhD student.)
 
 It turns out that this educated judgment, a combination of experience, established criteria, and intuition, is remarkably difficult to reproduce computationally. Much of what we know about neurodegenerative diseases today comes from precisely this kind of assessment.
 
