@@ -310,3 +310,5 @@ This is where computational neuropathology comes into play, and where things sta
 - [The Cell Image Library](https://www.cellimagelibrary.org/) — A publicly accessible repository of microscopy images, including the brain tissue images used in this post. You can download and explore whole-slide images from Alzheimer's disease cases! Simply download the submitted data (beware, the files are large!) and open the images in [QuPath](https://qupath.github.io/), a free, open-source software for digital pathology.
 - [Neuropathology Atlas – Washington University](https://neuropathologyatlas.wustl.edu/) — An extensive collection of over 33,000 annotated neuropathological images, covering a wide range of brain disorders, including neurodegenerative diseases.
 - [NACC Neuropathology Forms and Coding Guidebook](https://www.naccdata.org/data-forms-and-documentation/neuropathology-np-v11/) — A good example of how neuropathological observations, including semiquantitative assessments and staging, are translated into standardized research data.
+
+**The views expressed in this article are my own and may not represent those of my affiliated institutions.**

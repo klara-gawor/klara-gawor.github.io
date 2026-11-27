@@ -195,4 +195,4 @@ An extensive educational collection of macroscopic and microscopic images illust
 
 
 
-**The views expressed in this article are my own and do not represent those of my affiliated institutions.**
+**The views expressed in this article are my own and may not represent those of my affiliated institutions.**
