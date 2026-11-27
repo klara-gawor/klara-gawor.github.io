@@ -40,7 +40,7 @@ There are numerous sources of variability in histological images, some biologica
   <img src="/assets/img/blog/it-looks-mild-to-me/figure1.png"
        alt="Variability in the appearance of H&E-stained brain tissue"
        style="width: 100%;">
-  <figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
     <strong>Figure 1. Variability in tissue appearance.</strong>
     Two hematoxylin and eosin (H&E)-stained sections of the prefrontal cortex from individuals with Alzheimer's disease. Differences in tissue appearance do not necessarily reflect differences in the underlying disease but may result from the journey the tissue took before reaching the microscope. Irregular empty spaces visible in the image on the right are likely the result of postmortem changes or tissue processing.
     <br><br>
@@ -90,7 +90,7 @@ Of course, this is a simplified classification, and these categories are not mut
   <img src="/assets/img/blog/it-looks-mild-to-me/figure2.png"
        alt="Examples of neuropathological changes in the aging human brain"
        style="width: 70%; height: auto; display: block; margin: auto;">
-  <figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
     <strong>Figure 2. Examples of neuropathological changes in the aging human brain.</strong>
     (A) Neurofibrillary tangles (arrows), pretangles (arrowhead), and dystrophic neurites.
     (B) Amyloid-β plaques.
@@ -128,7 +128,7 @@ Several approaches are used to systematically describe and measure neuropatholog
   <img src="/assets/img/blog/it-looks-mild-to-me/figure3.png"
        alt="Overview of manual and computational neuropathological assessment methods"
        style="width: 100%;">
-  <figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
     <strong>Figure 3. Overview of approaches to neuropathological assessment.</strong>
     Methods range from manual qualitative and semiquantitative assessments
     to quantitative and computational approaches.
@@ -163,7 +163,7 @@ Let us consider one of the best-known examples of semiquantitative assessment in
   <img src="/assets/img/blog/it-looks-mild-to-me/figure4.png"
        alt="CERAD neuritic plaque density categories and examples of spatial variability"
        style="width: 85%; height: auto; display: block; margin: auto;">
-  <figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
     <strong>Figure 4. Semiquantitative assessment of neuritic plaque density.</strong>
     Top: schematic illustrations of sparse, moderate, and frequent neuritic plaques,
     drawn by the author based on the CERAD criteria presented in
