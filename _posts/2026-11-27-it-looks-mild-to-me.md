@@ -10,10 +10,6 @@ related_posts: false
 
 ## Learning to see pathology
 
-Humans have evolved a remarkable ability to recognize objects despite substantial variations in their appearance [[1]](#ref-1). We can recognize a familiar object regardless of its orientation, size, color, or lighting conditions, often without even realizing how complex this task is.
-
-However, recognizing objects is still a skill that needs to be developed. At the beginning, you simply do not see certain structures in the brain. Someone points them out to you, and you wonder how they managed to find them in the first place. After looking at similar slides for many consecutive days, you suddenly start detecting things that previously looked like nothing more than noise.
-
 <figure>
   <img src="/assets/img/blog/it-looks-mild-to-me/figure1.png"
        alt="Neuropathological examination at different scales"
@@ -33,6 +29,10 @@ However, recognizing objects is still a skill that needs to be developed. At the
     CC BY-NC-SA 3.0</a>.
   </figcaption>
 </figure>
+
+Humans have evolved a remarkable ability to recognize objects despite substantial variations in their appearance [[1]](#ref-1). We can recognize a familiar object regardless of its orientation, size, color, or lighting conditions, often without even realizing how complex this task is.
+
+However, recognizing objects is still a skill that needs to be developed. At the beginning, you simply do not see certain structures in the brain. Someone points them out to you, and you wonder how they managed to find them in the first place. After looking at similar slides for many consecutive days, you suddenly start detecting things that previously looked like nothing more than noise.
 
 With experience, we also become better at applying previously acquired knowledge to unfamiliar structures and learning to recognize new types of pathology.
 
