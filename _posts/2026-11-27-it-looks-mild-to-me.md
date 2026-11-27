@@ -14,6 +14,26 @@ Humans have evolved a remarkable ability to recognize objects despite substantia
 
 However, recognizing objects is still a skill that needs to be developed. At the beginning, you simply do not see certain structures in the brain. Someone points them out to you, and you wonder how they managed to find them in the first place. After looking at similar slides for many consecutive days, you suddenly start detecting things that previously looked like nothing more than noise.
 
+<figure>
+  <img src="/assets/img/blog/it-looks-mild-to-me/figure1.png"
+       alt="Neuropathological examination at different scales"
+       style="width: 100%;">
+  <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
+    <strong>Figure 1. Neuropathological examination at different scales.</strong>
+    A section of the prefrontal cortex from an individual with Alzheimer's disease,
+    immunostained for amyloid-β using the 4G8 antibody to visualize amyloid plaques.
+    The same tissue section is shown at different magnifications, from an overview
+    of the tissue architecture to individual pathological structures.
+    <br><br>
+    Image credit: Jessica S. Sadick and Shane A. Liddelow (2022),
+    The Cell Image Library,
+    <a href="https://doi.org/10.7295/W9CIL54453">CIL:54453</a>.
+    Images cropped from the original whole-slide image and arranged by the author.
+    License: <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">
+    CC BY-NC-SA 3.0</a>.
+  </figcaption>
+</figure>
+
 With experience, we also become better at applying previously acquired knowledge to unfamiliar structures and learning to recognize new types of pathology.
 
 But why is recognizing pathological structures so difficult in the first place?
@@ -37,11 +57,11 @@ There are numerous sources of variability in histological images, some biologica
 7. **Biological variability.** Even within a single brain region, pathology is rarely distributed uniformly. Certain cortical layers, cell populations, or tissue compartments may be particularly vulnerable, while neighboring structures remain relatively unaffected.
 
 <figure>
-  <img src="/assets/img/blog/it-looks-mild-to-me/figure1.png"
+  <img src="/assets/img/blog/it-looks-mild-to-me/figure2.png"
        alt="Variability in the appearance of H&E-stained brain tissue"
        style="width: 100%;">
   <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
-    <strong>Figure 1. Variability in tissue appearance.</strong>
+    <strong>Figure 2. Variability in tissue appearance.</strong>
     Two hematoxylin and eosin (H&E)-stained sections of the prefrontal cortex from individuals with Alzheimer's disease. Differences in tissue appearance do not necessarily reflect differences in the underlying disease but may result from the journey the tissue took before reaching the microscope. Irregular empty spaces visible in the image on the right are likely the result of postmortem changes or tissue processing.
     <br><br>
     Image credit: Jessica S. Sadick and Shane A. Liddelow,
@@ -85,11 +105,11 @@ Another major category of abnormalities includes changes affecting the brain's b
 Some of these changes are visible during macroscopic examination, while others can be identified using conventional histological stains or more specialized staining methods. Vascular pathology frequently coexists with neurodegenerative pathology and can independently contribute to cognitive impairment [[3]](#ref-3).
 
 <figure>
-  <img src="/assets/img/blog/it-looks-mild-to-me/figure2.png"
+  <img src="/assets/img/blog/it-looks-mild-to-me/figure3.png"
        alt="Examples of neuropathological changes in the aging human brain"
        style="width: 70%; height: auto; display: block; margin: auto;">
   <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
-    <strong>Figure 2. Examples of neuropathological changes in the aging human brain.</strong>
+    <strong>Figure 3. Examples of neuropathological changes in the aging human brain.</strong>
     (A) Neurofibrillary tangles (arrows), pretangles (arrowhead), and dystrophic neurites.
     (B) Amyloid-β plaques.
     (C) Cerebral amyloid angiopathy affecting arterioles (arrow) and capillaries (arrowhead).
@@ -127,11 +147,11 @@ Over the past few decades, considerable efforts have been made to standardize ne
 Although the specific criteria differ between diseases, many rely on similar approaches to describing and measuring pathological changes. Let us go through them one by one.
 
 <figure>
-  <img src="/assets/img/blog/it-looks-mild-to-me/figure3.png"
+  <img src="/assets/img/blog/it-looks-mild-to-me/figure4.png"
        alt="Overview of manual and computational neuropathological assessment methods"
        style="width: 100%;">
   <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
-    <strong>Figure 3. Overview of approaches to neuropathological assessment.</strong>
+    <strong>Figure 4. Overview of approaches to neuropathological assessment.</strong>
     Methods range from manual qualitative and semiquantitative assessments
     to quantitative and computational approaches.
     Illustration by the author.
@@ -162,11 +182,11 @@ This is not necessarily a bad approach. Experienced neuropathologists can integr
 Let us consider one of the best-known examples of semiquantitative assessment in neuropathology: the criteria developed by the Consortium to Establish a Registry for Alzheimer’s Disease (CERAD). Published in 1991, these guidelines aimed to standardize the neuropathological assessment of Alzheimer's disease and included reference images illustrating different densities of neuritic plaques [[12]](#ref-12), which I have tried to represent schematically below.
 
 <figure>
-  <img src="/assets/img/blog/it-looks-mild-to-me/figure4.png"
+  <img src="/assets/img/blog/it-looks-mild-to-me/figure5.png"
        alt="CERAD neuritic plaque density categories and examples of spatial variability"
        style="width: 85%; height: auto; display: block; margin: auto;">
   <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
-    <strong>Figure 4. Semiquantitative assessment of neuritic plaque density.</strong>
+    <strong>Figure 5. Semiquantitative assessment of neuritic plaque density.</strong>
     Top: schematic illustrations of sparse, moderate, and frequent neuritic plaques,
     drawn by the author based on the CERAD criteria presented in
     <a href="https://doi.org/10.1212/WNL.41.4.479">Mirra et al. (1991)</a>,
