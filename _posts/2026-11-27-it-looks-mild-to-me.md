@@ -19,7 +19,7 @@ related_posts: false
     A section of the prefrontal cortex from an individual with Alzheimer's disease,
     immunostained for amyloid-β using the 4G8 antibody to visualize amyloid plaques.
     The same tissue section is shown at different magnifications, from an overview
-    of the tissue architecture to individual pathological structures.
+    of the tissue architecture to individual plaques.
     <br><br>
     Image credit: Jessica S. Sadick and Shane A. Liddelow (2022),
     The Cell Image Library,
