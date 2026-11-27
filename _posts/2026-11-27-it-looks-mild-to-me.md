@@ -84,8 +84,6 @@ Another major category of abnormalities includes changes affecting the brain's b
 
 Some of these changes are visible during macroscopic examination, while others can be identified using conventional histological stains or more specialized staining methods. Vascular pathology frequently coexists with neurodegenerative pathology and can independently contribute to cognitive impairment [[3]](#ref-3).
 
-Of course, this is a simplified classification, and these categories are not mutually exclusive. Other neuropathological findings include Hirano bodies, corpora amylacea, granulovacuolar degeneration, and tissue calcifications. Other disease processes, such as infections or tumors, may also coexist with neurodegenerative changes.
-
 <figure>
   <img src="/assets/img/blog/it-looks-mild-to-me/figure2.png"
        alt="Examples of neuropathological changes in the aging human brain"
@@ -111,6 +109,8 @@ Of course, this is a simplified classification, and these categories are not mut
     can be found.
   </figcaption>
 </figure>
+
+Of course, this is a simplified classification, and these categories are not mutually exclusive. Other neuropathological findings include Hirano bodies, corpora amylacea, granulovacuolar degeneration, and tissue calcifications. Other disease processes, such as infections or tumors, may also coexist with neurodegenerative changes.
 
 ## Pathology has been identified. What now?
 
