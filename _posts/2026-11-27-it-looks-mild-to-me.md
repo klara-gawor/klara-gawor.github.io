@@ -62,7 +62,7 @@ There are numerous sources of variability in histological images, some biologica
        style="width: 100%;">
   <figcaption style="font-size: 0.85em; text-align: center; line-height: 1.5;">
     <strong>Figure 2. Variability in tissue appearance.</strong>
-    Two hematoxylin and eosin (H&E)-stained sections of the prefrontal cortex from individuals with Alzheimer's disease. Differences in tissue appearance do not necessarily reflect differences in the underlying disease but may result from the journey the tissue took before reaching the microscope. Irregular empty spaces visible in the image on the right are likely the result of postmortem changes or tissue processing.
+    Two hematoxylin and eosin (H&E)-stained cortical sections from individuals with Alzheimer's disease. Differences in tissue appearance do not necessarily reflect differences in the underlying disease but may result from the journey the tissue took before reaching the microscope. Irregular empty spaces visible in the image on the right are likely the result of postmortem changes or tissue processing.
     <br><br>
     Image credit: Jessica S. Sadick and Shane A. Liddelow,
     The Cell Image Library,
